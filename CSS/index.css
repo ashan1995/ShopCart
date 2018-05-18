@@ -1,0 +1,72 @@
+body{background:url(assets/img/white_leather.png) repeat 0 0; }
+#header{padding:8px 0 8px;
+    background-color:rgba(0,0,0,0.2);
+
+}
+#header a{text-decoration:none}
+#header p{padding:0; margin:0; line-height:1em; font-size:100%}
+#header h1{margin:0;line-height:1em }
+#header h1.dotmark{line-height:1.5em;}
+#header{ padding-top:44px;}
+.logo {padding-top: 11px;display: block;}
+.logo span{display:none}
+
+.offerNoteWrapper{border:6px solid #fff; margin: 6px;}
+.offerNoteWrapper:hover{border-color:rgb(252, 111, 0);}
+h3 {font-size: 18px;line-height: 1.5em;}
+hr.soften {margin: 8px 0;background: #DDD;}
+
+.loginFrm{
+    padding: 5px;
+    border-radius: 2px;
+    color: #eee;
+    background-color:rgba(0,0,0,0.5);
+    float: right;
+    position: relative;
+    margin-right: 10px;
+
+}
+.gridpart{
+    margin-top:50px;
+}
+img{
+    width: 100px;
+    height:100px;
+}
+
+
+
+.thumbnail .btn{ border-radius: 0 0 0 0;}
+.thumbnail h4{line-height:42px}
+.thumbnail img{ max-width:100%}
+.thumbnail:hover {border: 1px solid #CACACA;}
+
+.clr{clear:both;}
+
+
+.caption p{margin:0}
+.caption h4{margin:0}
+.thumbnail .caption {padding: 9px;color: #555555;background: #F3F2F2;}
+
+
+.thumbnail>a{display:block; text-align:center}
+
+.justify{text-align:justify;}
+
+.thumbnail h5,.thumbnail p{text-align:center}
+.bs-docs-sidenav > li > a {border: 0; border-bottom:1px solid #e5e5e5;}
+.thumbnail{position:relative;}
+
+
+
+.thumbnail>a.overlay, .thumbnail>a.zoomTool {display:none;}
+.shopBtn {min-height: 34px;font-size: 14px;font-weight: bold;line-height: 34px;text-align: center;color: #fff;border-radius: 2px;background: #f89406;display:inline-block;padding:0 12px;border:0;}
+.defaultBtn {min-height: 34px;font-size: 14px;font-weight: bold;line-height: 34px;text-align: center;border-radius: 2px;display:inline-block;padding:0 12px;color: #666;text-decoration: none;background: #e6e6e6;border:0;}
+.shopBtn:hover {color: #fff; text-decoration:none; background:#F86706}
+
+
+.foot{
+    padding: 20px !important;
+    background-color: black !important;
+    color: white !important;
+}
